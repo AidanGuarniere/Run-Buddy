@@ -77,24 +77,70 @@ footer a {
     color: #024e76;
 }
 
+/* apply styles to <section> */
+section {
+    padding: 60px;
+}
+
+/* apply styles to section <class=hero> */
+.hero {
+    background-image: url("runbuddy-hero.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+/* apply styles to .hero-form*/
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+/* apply styles to .hero-form <h3> */
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
+}
+
+/* apply styles to .hero-form <p> */
+.hero-form p { 
+    margin: 5px 0 15px 0;
+}
+
+/* apply styles to .form-input */
+.form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* apply styles to .hero-form <label> */
+.hero-form label {
+    margin: 0 5px;
+}
+
+/* apply styles to .hero-form <button> */
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/* hero styles end */
+
 /* apply styles to */
 
 
 /* apply styles to */
-
-
-/* apply styles to */
-
-
-/* apply styles to */
-
-
-/* apply styles to */
-
-
-/* apply styles to */
-
-
-/* apply styles to */
-
-
