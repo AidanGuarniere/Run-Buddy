@@ -140,7 +140,83 @@ section {
 }
 /* hero styles end */
 
+/* apply styles to section id=what-we-do <.intro> */
+.intro {
+    text-align: center;
+}
+
+/* apply styles to .section-title */
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    display: inline-block;
+  }
+
+/* apply styles to primary border */
+.primary-border {
+    border-color: #fce138;
+}
+
+/* apply styles to secondary border */
+.secondary-border {
+    border-color: #39a6b2;
+}
+
+/* apply styles to .intro <p> */
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+/* apply styles to section id=what-you-do <.steps> */
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+
+/* apply styles to .steps <div> */
+.steps div {
+    margin-bottom: 80px;
+}
+
+/* apply styles to .steps <img> */
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+
+/* apply styles to .steps <h3> */
+.steps h3 {
+    color: #024e76;
+    font-size: 46px;
+    margin-top: 10px;
+}
+
+/* apply styles to .steps <p> */
+.steps p {
+    color: #39a6b2;
+    font-size: 23px;
+}
+
+/* apply styles to .steps <span> */
+.steps span {
+    font-size: 38px;
+}
+
 /* apply styles to */
 
 
 /* apply styles to */
+
+
+/* apply styles to */
+
+
+
+
