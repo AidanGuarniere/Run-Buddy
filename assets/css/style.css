@@ -84,7 +84,7 @@ section {
 
 /* apply styles to section <class=hero> */
 .hero {
-    background-image: url("runbuddy-hero.jpg");
+    background-image: url("hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
